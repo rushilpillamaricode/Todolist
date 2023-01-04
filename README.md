@@ -1,2 +1,2 @@
 # todolist
-nodejs application
+nodejs ejs application
